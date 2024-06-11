@@ -1,6 +1,12 @@
-**This is an date-time-checker web app, based on React-js and its automation E2E testings using CodeceptJs.**
+# This is an date-time-checker web app, based on React-js and its automation E2E testings using CodeceptJs.
 
-For running date-time-checker-app
+## Download using git:
+
+`git clone https://github.com/fishmakeweb/date-time-checker.git`
+
+## To run this project using npm (make sure your device already install NodeJs runtime environment)
+
+### For running date-time-checker-app
 
 + First go to date-time-checker-app
   `cd date-time-checker-app`
@@ -9,7 +15,7 @@ For running date-time-checker-app
 + Running app
   `npm start`
 
-For running date-time-checker-test
+### For running date-time-checker-test
 
 + First go to date-time-checker-app
   `cd date-time-checker-test`
@@ -18,6 +24,6 @@ For running date-time-checker-test
 + Running all test cases
   `npx codeceptjs run --steps`
 
-**Happy hacking!**
+**Happy testing!**
 
 
